@@ -1,0 +1,19 @@
+{
+  "name": "gaming-backlog-recommendation-generator",
+  "version": "1.0.0",
+  "description": "This is the gaming backlog recommendation generator web app developed by KU ITEC 490 Capstone Group 4 students: Omar Ayesh, Brian Blood, Jake Galligan, Jacky Liu, and Alexander Timmerman.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "gaming",
+    "recommendation",
+    "preferences"
+  ],
+  "author": "Jacky Liu",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
